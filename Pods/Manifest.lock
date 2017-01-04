@@ -1,0 +1,17 @@
+PODS:
+  - objectiveflickr (2.0.4)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+
+DEPENDENCIES:
+  - objectiveflickr
+  - SDWebImage (~> 3.8)
+
+SPEC CHECKSUMS:
+  objectiveflickr: aed169dae1eb5a5550ca78f7efd7ccde2e4c26e5
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+
+PODFILE CHECKSUM: f13f9f8732350f9b027f07eb4ed2745d02593465
+
+COCOAPODS: 1.1.1
